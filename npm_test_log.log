@@ -1,0 +1,58 @@
+// test log
+
+❯ npm test                                                                                                                                                                       ─╯
+
+> fork-user-profile@1.0.0 test
+> mocha --no-timeouts
+
+
+
+  login and check user profile
+Open the fork Url
+add cookie _evidon_consent_cookie
+There is reCAPTCHA to handle
+Hello! You have 30s to prove you are NOT a robot
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Click login button
+the username is inserted as shuai.wang.kaos@gmail.com
+Click continue button after insert username
+password is inserted
+click continue button after insert password
+click personal Information Button
+personal page firstname value is Shuai
+personal page lastname value is Wang
+personal page lastname value is 3392472168
+personal page lastname value is shuai.wang.kaos@gmail.com
+    ✔ login and check the user profile information (36935ms)
+
+
+  1 passing (39s)
