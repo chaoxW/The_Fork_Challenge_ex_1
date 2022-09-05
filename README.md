@@ -36,5 +36,6 @@ if you see
 from log  
 you will have 30s to finish reCAPTCHA validation manually and there will be a count down from log  
 if there is no reCAPTCHA you do not have to do it  
-you can see the demo from here  
+you can see the demo from the_fork_demo.mov
+or
 https://drive.google.com/file/d/1g0S6-rdaP1UOWAfLdCYhZuvoLVyDtgQH/view?usp=sharing
