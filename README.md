@@ -29,7 +29,7 @@
     │   └── user_profile_test.js - Test file in JS
     └── package.json - Configuration for scripts and dependencies
 
-# Run
+# Run Test
 Run test with `npm test` from command  
 > if you see **There is reCAPTCHA to handle** from log  
 > 
